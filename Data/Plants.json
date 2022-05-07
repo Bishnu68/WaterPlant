@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Merigold",
+    "Description": "Tagetes erecta",
+    "isWatering": true,
+    "lastWatered": "2022-05-06T22:13:19.1394175-04:00",
+    "DateToDisplay": "05/06/2022 10:13 PM"
+  },
+  {
+    "Id": 2,
+    "Name": "Rose",
+    "Description": "Rosa Carolina",
+    "isWatering": true,
+    "lastWatered": "2022-05-06T22:13:21.846949-04:00",
+    "DateToDisplay": "05/06/2022 10:13 PM"
+  },
+  {
+    "Id": 3,
+    "Name": "African Violet",
+    "Description": "Saintpaulia ionantha",
+    "isWatering": true,
+    "lastWatered": "2022-05-06T22:13:24.5915277-04:00",
+    "DateToDisplay": "05/06/2022 10:13 PM"
+  },
+  {
+    "Id": 4,
+    "Name": "Kalanchoe",
+    "Description": "Kalanchoe Blossfeldiana",
+    "isWatering": true,
+    "lastWatered": "2022-05-06T22:13:25.766897-04:00",
+    "DateToDisplay": "05/06/2022 10:13 PM"
+  },
+  {
+    "Id": 5,
+    "Name": "Chenille Plant",
+    "Description": "Acalypha hispida",
+    "isWatering": true,
+    "lastWatered": "2022-05-06T22:24:38.5312268-04:00",
+    "DateToDisplay": "05/06/2022 10:24 PM"
+  }
+]
